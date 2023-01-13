@@ -19,6 +19,7 @@
     "googleapis": "^108.0.0",
     "http-errors": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.8.0",
     "nodemon": "^2.0.19",
@@ -26,7 +27,6 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "eslint": "^8.21.0",
-    "morgan": "^1.10.0"
+    "eslint": "^8.21.0"
   }
 }
